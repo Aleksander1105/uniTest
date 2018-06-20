@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Aleksander1105/uniTest#readme",
   "dependencies": {
+    "mocha": "^5.2.0",
     "nano": "^6.4.4"
   }
 }
